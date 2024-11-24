@@ -1,3 +1,11 @@
+# Prevalencia de siniestros viales en CABA (Buenos Aires)
+
+<div align="center">
+    <img src="https://github.com/jdbaquero84/Prevalencia-de-siniestros-viales-en-CABA-Buenos-Aires-/blob/main/imagen1.jpg" alt="Descripción de la Imagen 1" width="200"/>
+    <img src="https://github.com/jdbaquero84/Prevalencia-de-siniestros-viales-en-CABA-Buenos-Aires-/blob/main/imagen2.jpg" alt="Descripción de la Imagen 2" width="200"/>
+    <img src="https://github.com/jdbaquero84/Prevalencia-de-siniestros-viales-en-CABA-Buenos-Aires-/blob/main/imagen3.png" alt="Descripción de la Imagen 3" width="200"/>
+</div>
+
 ## Resumen
 
 La Ciudad de Buenos Aires, como núcleo urbano dinámico, experimenta un flujo vehicular constante que, en ocasiones, se traduce en un elevado número de accidentes de tránsito. Este estudio tiene como objetivo analizar un conjunto de datos detallados sobre siniestros viales ocurridos en la ciudad en el periodo 2016-2021, con el fin de identificar los factores de riesgo. Se buscará determinar las zonas con mayor incidencia de accidentes, los horarios pico y los tipos de vehículos más involucrados. Los resultados de esta investigación servirán como base para diseñar estrategias de seguridad vial más focalizadas y basadas en evidencia.
@@ -8,6 +16,7 @@ Las variables consideradas determinantes para el análisis se seleccionaron en f
 - **¿Cuándo hay mayor incidencia?** ¿Cuándo prevenir?
 - **¿Cuál es el perfil de las víctimas y victimarios?** ¿Población más afectada?
 - **¿En qué comunas hay más ocurrencia?** Lugares
+
 ## Modelo de econometría espacial
 
 El código para el modelo de econometría espacial está incluido en el análisis exploratorio de datos (EDA). Se ha implementado para analizar los accidentes de tránsito en Buenos Aires, proporcionando una base robusta para comprender los patrones espaciales y temporales en los datos de víctimas.
@@ -57,5 +66,4 @@ Las zonas más afectadas por los accidentes son las comunas 1, 4, 9, 8 y 7, con 
    - Las campañas de concienciación deben enfocarse en los grupos demográficos más afectados: hombres, especialmente aquellos en categorías de joven adulto, adulto y anciano. Además, las campañas deben destacar la importancia de la seguridad para aquellos que utilizan motos, carros y como peatones. Iniciativas educativas pueden ser llevadas a cabo en centros comunitarios, lugares de trabajo y a través de plataformas digitales para alcanzar un público más amplio.
 
 3. **Mejoras en la Infraestructura Vial de Comunas Críticas**:
-   - Las comunas 1, 4, 9, 8 y 7, que presentan una alta concentración de accidentes, requieren mejoras específicas en la infraestructura vial. Esto podría incluir la creación de más pasos peatonales, la instalación de barandillas de seguridad, y la mejora de la iluminación en las avenidas principales. Además, la implementación de zonas de reducción de velocidad y cámaras de control de velocidad pueden ayudar a reducir los accidentes en estas áreas.
-
+   - Las comunas 1, 4, 9, 8 y 7, que presentan una alta concentración de accidentes, requieren mejoras específicas en la infraestructura vial. Esto podría incluir la creación de más pasos peatonales, la instalación de barandillas de seguridad, y la mejora de la iluminación en las avenidas principales. Además, la implementación de zonas de reducción de velocidad y cámaras de control de velocidad pueden ayudar a reducir los accidentes en
