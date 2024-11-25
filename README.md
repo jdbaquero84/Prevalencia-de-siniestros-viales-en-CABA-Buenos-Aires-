@@ -10,6 +10,13 @@
 
 La Ciudad de Buenos Aires, como núcleo urbano dinámico, experimenta un flujo vehicular constante que, en ocasiones, se traduce en un elevado número de accidentes de tránsito. Este estudio tiene como objetivo analizar un conjunto de datos detallados sobre siniestros viales ocurridos en la ciudad en el periodo 2016-2021, con el fin de identificar los factores de riesgo. Se buscará determinar las zonas con mayor incidencia de accidentes, los horarios pico y los tipos de vehículos más involucrados. Los resultados de esta investigación servirán como base para diseñar estrategias de seguridad vial más focalizadas y basadas en evidencia.
 
+## Tecnologías Utilizadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
 ## Enfoque del análisis
 
 Las variables consideradas determinantes para el análisis se seleccionaron en función de tratar de responder a los siguientes interrogantes:
